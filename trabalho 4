@@ -1,0 +1,40 @@
+diferenças entre 3 linguagens de programação (python, java script e c++)
+Python
+Sintaxe Simples: Python é conhecido por sua sintaxe simples e legibilidade.
+Interpretada: Python é uma linguagem interpretada, o que significa que o código é executado linha por linha, sem a necessidade de compilação.
+Ênfase em Legibilidade e Produtividade: Python é frequentemente escolhido por sua facilidade de aprendizado e produtividade.
+
+Exemplo de código Python:
+
+python
+Copy code
+# Imprime "Hello, World!" na tela
+print("Hello, World!")
+
+JavaScript
+Linguagem de Script do Lado do Cliente e do Servidor: JavaScript é amplamente utilizado tanto no lado do cliente (navegadores) quanto no lado do servidor (Node.js).
+Assíncrona e Orientada a Eventos: JavaScript é assíncrono e orientado a eventos, o que significa que ele pode lidar com operações de forma não bloqueante.
+Tipagem Dinâmica: JavaScript é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar explicitamente o tipo de uma variável.
+
+Exemplo de código JavaScript:
+
+javascript
+Copy code
+// Imprime "Hello, World!" no console do navegador
+console.log("Hello, World!");
+
+C++
+Linguagem de Baixo Nível: C++ é uma linguagem de programação de baixo nível, permitindo controle direto sobre a memória e recursos do sistema.
+Compilada: C++ é uma linguagem compilada, o que significa que o código fonte é traduzido para linguagem de máquina antes da execução.
+Forte Tipagem Estática: C++ é fortemente tipado e requer declaração explícita de tipos de variáveis.
+
+Exemplo de código C++:
+
+cpp
+Copy code
+#include <iostream>
+
+int main() {
+    // Imprime "Hello, World!" no console
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
